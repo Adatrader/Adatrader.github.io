@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.therealestatecafe.com/index.html</loc>
-	</url>
-	<url>
 		<loc>http://www.therealestatecafe.com/Investments.html</loc>
 	</url>
 	<url>
@@ -13,5 +10,8 @@
 	</url>
 	<url>
 		<loc>http://www.therealestatecafe.com/webuyhomes.html</loc>
+	</url>
+	<url>
+		<loc>http://www.therealestatecafe.com/home.html</loc>
 	</url>
 </urlset>
